@@ -10,7 +10,7 @@ class BinaryTree
 public:
 
 	BinaryTree() { m_root = nullptr; };
-	~BinaryTree() {};
+	~BinaryTree();
 
 	/// <summary>
 	/// Returns true if the root is nullptr
