@@ -1,4 +1,5 @@
-﻿  main.cpp
+﻿  BinaryTree.cpp
+  main.cpp
 C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\Raygui\src\raygui.h(749,63): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
 C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\Raygui\src\raygui.h(749,63): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\Raygui\src\raygui.h(750,75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
@@ -124,4 +125,13 @@ C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\Raygui\src\raygui.h(3341,49
 C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\Raygui\src\raygui.h(3341,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\Raygui\src\raygui.h(3356,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\Raygui\src\raygui.h(3356,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TreeNode.cpp
+  Generating Code...
+C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\CDDS_BinaryTree\BinaryTree.cpp(185): warning C4715: 'BinaryTree::find': not all control paths return a value
+raylib.lib(core.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(core.obj)' or at 'C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rglfw.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rglfw.obj)' or at 'C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(shapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(shapes.obj)' or at 'C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(text.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(text.obj)' or at 'C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(textures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(textures.obj)' or at 'C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
   CDDS_BinaryTree.vcxproj -> C:\Users\s208059\Documents\GitHub\BinaryTreeTemplate\bin\x64\Debug\CDDS_BinaryTree.exe
